@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Hubot hrer, I like Node.js and Coffeescript
